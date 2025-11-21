@@ -1,9 +1,11 @@
 # Hi, I'm AMADOU Ruchdane from Benin 🇧🇯! 
 I'm a Software engineer and Product designer, combining technical expertise with user insight to create delightfull blazingly fast software.
 
-<!-- ![Ruchdane Stats](https://github-readme-stats.vercel.app/api?username=ruchdane&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-/[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
---->
+<!-- 
+![Ruchdane Stats](https://github-readme-stats-kappa-wine-97.vercel.app/api?username=ruchdane&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,rust,scss,next,astro)](https://skillicons.dev)
+-->
 
 
 ## 🥸 About Me
